@@ -411,3 +411,19 @@ Explorador de arquivos do dispositivo
 ![Captura de tela 2024-05-03 185907](https://github.com/virnaaguiaar/audio_com_wav2vec/assets/85238057/5174849d-c24e-4f29-982b-6e32e115da47)
 
 
+pip install
+
+    pip install librosa
+    pip install pdfplumber
+    pip install pyctcdecode
+    pip install torch
+    pip install torch torchvision torchaudio
+    pip install --upgrade pip setuptools
+    pip install --user webrtcvad-wheels
+    pip install webrtcvad-wheels
+    pip install webrtcvad
+    pip install numpy
+    pip install pandas
+    pip install transformers
+    pip install SpeechRecognition
+    pip install pyaudio numpy SpeechRecognition noisereduce
