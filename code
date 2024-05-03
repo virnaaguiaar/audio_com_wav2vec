@@ -1,0 +1,21 @@
+# importações
+
+
+      import pdfplumber
+      import os
+      import pathlib
+      import pandas as pd
+      import re
+      import numpy as np
+      import time
+      import torch
+      from transformers import AutoModelForCTC, AutoProcessor, Wav2Vec2Processor
+      import sys
+      import librosa
+      import pyaudio
+      import IPython
+      import webrtcvad
+      import pyaudio
+      import wave
+      import speech_recognition as sr
+      import noisereduce as nr
