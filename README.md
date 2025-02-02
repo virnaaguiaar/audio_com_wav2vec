@@ -42,7 +42,7 @@ Lista todos os dispositivos de áudio disponíveis no sistema e mostra os nomes 
     all_clean_text = {} #dicionário vazio
 
 PDF: text_directions
-Note: Each code should be tailored to your PDF
+Nota: Cada código deve ser ajustado de acordo com seu PDF
 
 ![Captura de tela 2024-05-03 185206](https://github.com/virnaaguiaar/audio_com_wav2vec/assets/85238057/a727eac3-7b09-4256-8226-149a86915763)
 
